@@ -1,5 +1,7 @@
 name: Metrics
 on:
+  push:
+    branches: ["main", "master"]
   schedule: [{cron: "0 0 * * *"}] # Atualiza todos os dias à meia-noite
   workflow_dispatch: # Permite que tu cliques num botão para atualizar na hora
 jobs:
