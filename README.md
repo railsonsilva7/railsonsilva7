@@ -1,6 +1,6 @@
 ### Hello! I´m Railson Silva 👋
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=railsonsilva7&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+![My GitHub Metrics](github-metrics.svg)
 ## Technologies
 
 <div style="display: inline_block"><br/>
